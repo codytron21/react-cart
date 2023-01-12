@@ -10,6 +10,7 @@
 
 @import "colors";
 @import "header";
+@import "home";
 
 
 
@@ -19,5 +20,5 @@
 body{
 
     background-color:$primary;
-    color: $tertiary;
+
 }
